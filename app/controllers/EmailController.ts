@@ -13,7 +13,10 @@ router.get('/', async (req: Request, res: Response, next: NextFunction) => {
     const email = await emailService
       .getUserEmail(name, surname, company)
       .catch(next);
-    if (email) sendSuccess(res, {'Derived Email': email});
+    if (email) {
+      console.log('Derived Email: ' + email);
+      sendSuccess(res, {'Derived Email': email});
+    }
   } else {
     sendFailed(res, 'Missing Parameters').catch(next);
   }

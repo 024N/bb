@@ -1,1 +1,0 @@
-{"version":3,"file":"userDB.js","sourceRoot":"","sources":["../../../app/db/userDB.ts"],"names":[],"mappings":";;;AAAW,QAAA,MAAM,GAAG;IAChB,UAAU,EAAE,iBAAiB;IAC7B,UAAU,EAAE,sBAAsB;IAClC,aAAa,EAAE,yBAAyB;IACxC,SAAS,EAAE,mBAAmB;IAC9B,YAAY,EAAE,kBAAkB;IAChC,cAAc,EAAE,kBAAkB;CACrC,CAAA"}

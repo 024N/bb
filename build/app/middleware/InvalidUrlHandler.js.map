@@ -1,1 +1,0 @@
-{"version":3,"file":"InvalidUrlHandler.js","sourceRoot":"","sources":["../../../app/middleware/InvalidUrlHandler.ts"],"names":[],"mappings":";;;AACA,4CAAsC;AACtC,gDAAoD;AAEpD,4BAA4B;AACrB,KAAK,UAAU,iBAAiB,CAAC,GAAY,EAAE,GAAa,EAAE,IAAkB;IACrF,YAAG,CAAC,KAAK,CAAC,iCAAiC,CAAC,CAAC;IAC7C,IAAA,0BAAe,EAAC,GAAG,CAAC,CAAC;AACvB,CAAC;AAHD,8CAGC"}
